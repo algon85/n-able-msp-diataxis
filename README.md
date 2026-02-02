@@ -52,8 +52,16 @@ n-able-msp-diataxis/
    ├─ n-central-terminology.md
    ├─ agent-status-codes.md
    └─ alert-severity-levels.md
-
 ````
+## Why There Are Separate Tutorials
+
+This repository contains tutorials for both **N-central** and **N-sight** RMM platforms.  
+While both products share core concepts like client onboarding and agent deployment, they are designed for different MSP audiences and operational scopes:
+
+- **N-central** — large or enterprise-level MSPs, highly customizable, supports on-premises hosting  
+- **N-sight** — small to mid-sized MSPs, cloud-only, simplified setup  
+
+For a deeper conceptual comparison of these platforms, see [Explanations: N-central vs N-sight](./explanations/n-central-vs-n-sight.md).
 
 This content is based on public product knowledge and practical MSP experience.
 No proprietary or internal documentation is included.
