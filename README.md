@@ -4,8 +4,18 @@
 ![Focus](https://img.shields.io/badge/Focus-MSP%20Operations-lightgrey)
 # N-able MSP Diátaxis Knowledge Base
 
-This repository demonstrates structured technical documentation using the
-**Diátaxis framework** outlining real-world MSP tooling from the N-able ecosystem.
+## Documentation Approach
+
+This repository outlines real-world MSP tooling from the N-able ecosystem and demonstrates structured technical documentation using **Diataxis framework**, which structures content for clarity into four types:
+
+- **Tutorials:** end-to-end learning workflows  
+- **How-Tos:** task-focused procedural guides  
+- **Explanations:** conceptual understanding  
+- **Reference:** facts and definitions
+
+If you’re new to this approach and want the reasoning behind this structure, see the canonical guide:  
+👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/diataxis.md)
+
 
 ## Purpose
 - Showcase operational familiarity with N-able products
