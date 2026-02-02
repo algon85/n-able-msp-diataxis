@@ -1,7 +1,20 @@
-# n-able-msp-diataxis
-Portfolio anchored to diataxis, tied to actual MSP tooling
+# N-able MSP Diátaxis Knowledge Base
 
-**Full Scaffold** as follows:
+This repository demonstrates structured technical documentation using the
+**Diátaxis framework** applied to real-world MSP tooling from the N-able ecosystem.
+
+## Purpose
+- Showcase operational familiarity with N-able products
+- Demonstrate clear technical writing and system thinking
+- Provide realistic MSP-focused workflows and explanations
+
+## Structure
+- **Tutorials** — learning-oriented, step-by-step guides
+- **How-To Guides** — task-focused operational instructions
+- **Explanations** — conceptual and architectural context
+- **Reference** — factual lookup material
+
+## Full Scaffold
 ````text
 n-able-msp-diataxis/
 ├─ README.md
@@ -37,3 +50,6 @@ n-able-msp-diataxis/
    └─ alert-severity-levels.md
 
 ````
+
+This content is based on public product knowledge and practical MSP experience.
+No proprietary or internal documentation is included.
