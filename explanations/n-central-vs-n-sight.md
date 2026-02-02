@@ -46,6 +46,5 @@ N-central includes advanced automation policies, role‑based access, and extens
 
 ## Links
 - [Onboarding a New Client](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/onboarding-a-new-client.md)
-- [Deploying Agents at Scale](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/deploying-agents-at-scale.md)
-- [Monitoring and Alerting Basics](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/monitoring-and-alerting-basics.md)
-- [N-central vs N-sight](https://github.com/algon85/n-able-msp-diataxis/blob/main/explanations/n-central-vs-n-sight.md)
+- [RMM vs EDR vs MDR](https://github.com/algon85/n-able-msp-diataxis/blob/main/explanations/rmm-vs-edr-vs-mdr.md)
+  
