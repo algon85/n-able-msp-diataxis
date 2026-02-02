@@ -13,7 +13,7 @@ This repository outlines real-world MSP tooling from the N-able ecosystem and de
 - **Reference:** facts and definitions
 
 If you’re new to this approach and want the reasoning behind this structure, see the canonical guide:  
-👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/diataxis.md)
+👉 [Diátaxis Framework](https://github.com/algon85/diataxis-framework/blob/main/diataxis.md)
 
 
 ## Purpose
