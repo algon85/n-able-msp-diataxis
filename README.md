@@ -53,7 +53,7 @@ n-able-msp-diataxis/
 │  └─ mail-assure/
 │     └─ manage-spam-and-quarantine.md
 ├─ explanations/
-│  ├─ diataxis.md
+│  ├─ n-central-architecture.md
 │  ├─ n-central-vs-n-sight.md
 │  ├─ rmm-vs-edr-vs-mdr.md
 │  └─ where-cove-fits-in-an-msp-stack.md
