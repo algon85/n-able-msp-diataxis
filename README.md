@@ -1,4 +1,3 @@
-![Documentation](https://img.shields.io/badge/Framework-Diátaxis-blue)
 ![N-able](https://img.shields.io/badge/Platform-N--able-orange)
 ![Status](https://img.shields.io/badge/Status-In--Progress-success)
 ![Focus](https://img.shields.io/badge/Focus-MSP%20Operations-lightgrey)
