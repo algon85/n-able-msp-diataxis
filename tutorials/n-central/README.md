@@ -4,7 +4,7 @@ This section contains learning-oriented tutorials for **N-central RMM**, focused
 
 ## Audience
 These tutorials are intended for:
-- Helpdesk and NOC engineers
+- Helpdesk and NOC professionals
 - MSP staff managing endpoints and monitoring
 - Technicians new to N-central
 
