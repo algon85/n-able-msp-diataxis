@@ -31,6 +31,6 @@ how-to/
 ├─ take-control/
 │ └─ safely-access-user-endpoints.md
 └─ mail-assure/
-└─ manage-spam-and-quarantine.md
+  └─ manage-spam-and-quarantine.md
 ````
 
