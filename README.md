@@ -1,7 +1,11 @@
+![Documentation](https://img.shields.io/badge/Framework-Diátaxis-blue)
+![N-able](https://img.shields.io/badge/Platform-N--able-orange)
+![Status](https://img.shields.io/badge/Status-In--Progress-success)
+![Focus](https://img.shields.io/badge/Focus-MSP%20Operations-lightgrey)
 # N-able MSP Diátaxis Knowledge Base
 
 This repository demonstrates structured technical documentation using the
-**Diátaxis framework** applied to real-world MSP tooling from the N-able ecosystem.
+**Diátaxis framework** outlining real-world MSP tooling from the N-able ecosystem.
 
 ## Purpose
 - Showcase operational familiarity with N-able products
