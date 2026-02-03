@@ -129,15 +129,9 @@ With the agent online and properly named, run the onboarding automation policies
 **Team Convention (Example):**
 - Run the following AMPs:
   - `Onboard`
-  - `Placeholder`
-  - `Placeholder`
 
 These automations typically:
 - Placeholder
-- Placeholder
-- Placeholder
-
-Monitor automation execution for errors and resolve any failures.
 
 ---
 
