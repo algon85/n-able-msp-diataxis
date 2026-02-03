@@ -17,7 +17,9 @@ It is intended for team members who need to understand how N-central detects iss
 ## Assumptions
 
 - You have access to an N-central environment
-- 
+- Endpoints are already onboarded and reporting
+- Monitoring policies are pre-defined by the team
+- You understand basic NOC workflows
 
 ---
 
@@ -27,22 +29,29 @@ Monitoring in N-central consists of:
 
 1. Predefined checks on devices (CPU, disk, services, etc.)  
 2. Alerting policies and thresholds  
-3. Notifications 
+3. Notifications via email, dashboard, or integrations  
+4. Escalation procedures for critical events
 
 ---
 
 ## Step 1: Understand Check Types
 
 - **Agent Health Checks:** Confirm endpoints are online and reporting  
-- 
+- **System Performance Checks:** CPU, memory, disk usage  
+- **Service/Application Checks:** Verify critical applications are running  
+- **Custom Checks:** Specific to client or environment requirements
+
+> Tip: Focus on the checks that are tied to your client’s SLA priorities.
 
 ---
 
 ## Step 2: Review Alert Severity Levels
 
-- **Informational / Low:**  
-- **Medium:**   
-- **High / Critical:** 
+- **Informational / Low:** For non-critical events  
+- **Medium:** Potential issues that may require attention  
+- **High / Critical:** Immediate action required
+
+> Tip: Consistently use severity levels to prioritize response.
 
 ---
 
