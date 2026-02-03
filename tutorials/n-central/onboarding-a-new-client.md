@@ -128,14 +128,14 @@ With the agent online and properly named, run the onboarding automation policies
 
 **Team Convention (Example):**
 - Run the following AMPs:
-  - `Initial Endpoint Baseline`
-  - `Patch Classification Sync`
-  - `Monitoring Policy Assignment`
+  - `Onboard`
+  - `Placeholder`
+  - `Placeholder`
 
 These automations typically:
-- Validate agent health
-- Apply required monitoring templates
-- Align the device with patching and alerting standards
+- Placeholder
+- Placeholder
+- Placeholder
 
 Monitor automation execution for errors and resolve any failures.
 
