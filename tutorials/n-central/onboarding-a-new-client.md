@@ -99,8 +99,8 @@ The onboarding process is complete when:
 
 ## Related Content
 
-- How-to: [Troubleshooting Offline Agents](../how-to/n-central/troubleshoot-offline-agents.md)  
-- How-to: [Running Remote Commands](../how-to/n-central/run-remote-commands.md)  
-- Explanation: [N-central Architecture](../explanations/n-central-architecture.md)  
+- How-to: [Troubleshooting Offline Agents](../../how-to/n-central/troubleshoot-offline-agents.md)  
+- How-to: [Running Remote Commands](../../how-to/n-central/run-remote-commands.md)  
+- Explanation: [N-central Architecture](../../explanations/n-central-architecture.md)  
 - Explanation: [N-central vs N-sight](../../explanations/n-central-vs-n-sight.md)  
 
