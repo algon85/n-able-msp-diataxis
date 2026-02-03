@@ -23,5 +23,8 @@ Covers:
 - **MDR (Managed Detection & Response):** A service that combines EDR technology with security expertise to proactively monitor, detect, and respond to threats on behalf of the MSP. Provides 24/7 security operations.
 
 ## Links
-- Tutorials for N-central and N-sight agent deployment  
-- Related explanations: RMM workflows, automation policies
+- [Onboarding a New Client](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/onboarding-a-new-client.md)
+- [Deploying Agents at Scale](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/deploying-agents-at-scale.md)
+- [Monitoring and Alerting Basics](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/monitoring-and-alerting-basics.md)
+- [N-central vs N-sight](https://github.com/algon85/n-able-msp-diataxis/blob/main/explanations/n-central-vs-n-sight.md)
+
