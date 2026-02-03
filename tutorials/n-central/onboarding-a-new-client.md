@@ -127,6 +127,7 @@ Once the device appears in N-central, rename it according to the standard conven
 With the agent online and properly named, run the onboarding automation policies to baseline the endpoint.
 
 **Team Convention (Example):**
+
 - Run the following AMPs:
   - 
 
