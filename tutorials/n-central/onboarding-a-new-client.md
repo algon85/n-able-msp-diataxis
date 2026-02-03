@@ -1,6 +1,6 @@
 # Onboarding a New Client Endpoint in N-central
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** Tutorial  
 **Product:** N-central RMM  
 **Audience:** NOC Professionals / Helpdesk Engineers  
