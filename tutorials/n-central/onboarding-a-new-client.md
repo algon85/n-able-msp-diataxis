@@ -127,12 +127,17 @@ Once the device appears in N-central, rename it according to the standard conven
 With the agent online and properly named, run the onboarding automation policies to baseline the endpoint.
 
 **Team Convention (Example):**
-
 - Run the following AMPs:
-  - 
+  - `Initial Endpoint Baseline`
+  - `Patch Classification Sync`
+  - `Monitoring Policy Assignment`
 
 These automations typically:
-- 
+- Validate agent health
+- Apply required monitoring templates
+- Align the device with patching and alerting standards
+
+Monitor automation execution for errors and resolve any failures.
 
 ---
 
