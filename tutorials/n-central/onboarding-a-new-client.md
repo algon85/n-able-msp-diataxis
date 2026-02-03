@@ -120,6 +120,7 @@ Once the device appears in N-central, rename it according to the standard conven
 
 > **Tip:** Always double-check that the updated name matches the intended convention before proceeding with automation or monitoring steps.
 
+---
 
 ## Step 5: Run Initial Onboarding Automation
 
