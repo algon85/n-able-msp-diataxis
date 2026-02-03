@@ -124,15 +124,32 @@ Once the device appears in N-central, rename it according to the standard conven
 
 ## Step 5: Run Initial Onboarding Automation
 
-With the agent online and properly named, run the onboarding automation policies to baseline the endpoint.
+Once the agent is online and the device is properly named, run the onboarding automation policies (AMPs) to bring the endpoint into compliance and ensure it is fully monitored.
 
-**Team Convention (Example):**
-- Run the following AMPs:
-  - `Onboard`
-  - ` `
+### Running AMPs
 
-These automations typically:
-- Placeholder
+1. Open the device in N-central.  
+2. Navigate to **Tools → Task Execution** to run AMPs on the endpoint.  
+3. Execute the following AMPs according to team convention:
+
+- **All endpoints:**  
+  - `Onboard` AMP  
+  - `Adlumin Installer` AMP  
+- **After enabling BitLocker on the device:**  
+  - `BitLockerKeys` AMP  
+- **Specific clients (e.g., Landing Point):**  
+  - Additional client-specific AMPs as required  
+
+> **Note:** TASC computers get the Onboard_TASC amp.
+
+> **Tip:** Always monitor the AMP execution for errors. If an AMP fails, resolve the issue before moving on to the next step.
+
+### Purpose of Each AMP
+
+- **Onboard:** Brings the device under baseline monitoring and ensures policies are applied.  
+- **Adlumin Installer:** Installs endpoint security and monitoring software.  
+- **BitLockerKeys:** Captures BitLocker recovery keys after encryption is enabled.  
+- **Client-specific AMPs:** Apply any additional software or configuration policies unique to that client. 
 
 ---
 
