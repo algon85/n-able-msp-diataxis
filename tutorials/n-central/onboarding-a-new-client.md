@@ -155,17 +155,34 @@ Once the agent is online and the device is properly named, run the onboarding au
 
 ## Step 6: Verify Monitoring and Alerting
 
-After automation completes, confirm that monitoring is active:
+Once all AMPs have run, confirm the endpoint is fully monitored:
 
+- Ensure all expected checks appear in N-central and are reporting correctly
+- Confirm alert severity levels align with team standards
+- Check that device-specific policies (patching, security, monitoring) have applied
+- Resolve any failed checks or policy misalignments before closing the onboarding
 
 ---
 
 ## Completion Criteria
 
-The onboarding process is complete when:
+Onboarding is complete when:
 
+- The agent is online and stable in N-central
+- Device name follows the team convention
+- Required AMPs have run successfully
+- Monitoring and alerting are functioning as expected
 
 ---
+
+## Next Steps
+
+- Assign the endpoint to client-specific groups if required  
+- Configure additional monitoring or patching policies as needed  
+- Refer to the How-to guides for troubleshooting or running advanced commands
+
+---
+
 ## Related Content
 
 - How-to: [Troubleshooting Offline Agents](../../how-to/n-central/troubleshoot-offline-agents.md)  
