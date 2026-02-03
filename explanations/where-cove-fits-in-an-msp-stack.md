@@ -25,5 +25,7 @@ Covers:
 - **Recovery & DR:** Supports point-in-time restores, full system restores, and disaster recovery scenarios for business continuity.
 
 ## Links
-- Tutorials for Cove Data Protection setup  
-- Explanations of RMM, EDR, MDR concepts
+- [Cove Data Protection Tutorials](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/cove-data-protection/README.md)
+- [Deploying Agents at Scale](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/deploying-agents-at-scale.md)
+- [Monitoring and Alerting Basics](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/monitoring-and-alerting-basics.md)
+- [RMM vs EDR vs MDR](https://github.com/algon85/n-able-msp-diataxis/blob/main/explanations/rmm-vs-edr-vs-mdr.md)
