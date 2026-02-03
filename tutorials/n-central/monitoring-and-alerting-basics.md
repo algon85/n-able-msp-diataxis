@@ -57,12 +57,20 @@ Monitoring in N-central consists of:
 
 ## Step 3: Check Alerting Policies
 
-1. Open the **Alerts & Notifications** 
+1. Open the **Alerts & Notifications** section in N-central  
+2. Review the policy for each check type  
+3. Confirm recipients and escalation rules are correct
+
+> Tip: If in doubt, consult the team’s standard alerting configuration.
+
 ---
 
 ## Step 4: Respond to Alerts
 
-- A
+- Acknowledge the alert in N-central  
+- Investigate the root cause using endpoint tools  
+- Resolve the issue or escalate per team workflow  
+- Close the alert once resolved
 
 ---
 
@@ -70,8 +78,10 @@ Monitoring in N-central consists of:
 
 Monitoring is correctly configured and functional when:
 
-- Critical alerts appear
-- 
+- Critical alerts appear in the dashboard as expected  
+- Notification recipients are correctly assigned  
+- Team members can respond according to standard workflow  
+
 ---
 
 ## Related Content
