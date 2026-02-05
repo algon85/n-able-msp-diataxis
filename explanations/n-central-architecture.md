@@ -58,7 +58,7 @@ N-central offers flexibility in how the management platform is hosted, allowing 
 | Model | Description | Use Case |
 |------|-------------|----------|
 | **Cloud-Hosted** | The N-central server and database are hosted and maintained by N-able. MSPs access the platform via the web without managing underlying infrastructure. | MSPs seeking reduced operational overhead, faster onboarding, and simplified maintenance. |
-| **On-Premises** | 
+| **On-Premises** | The N-central server and database are installed within the MSP’s own infrastructure or private cloud. The MSP is responsible for maintenance, updates, and backups. | MSPs with strict data residency, compliance, or customization requirements. | 
 
 ---
 
