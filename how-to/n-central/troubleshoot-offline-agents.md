@@ -22,7 +22,7 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 
 4. **Verify Appliance and Customer Association** In the N-central Web Console, verify that the device is still associated with the correct **Customer** or **Site**. If a device was moved without an agent check-in, it may report as offline.
 
-5. **Force Agent Check-in or Reinstall** Restart the Windows Agent Service. If the device does not check back into the **NOC** dashboard within 10 minutes, download a new agent installer from the N-central UI and perform a "Repair" installation.
+5. **Force Agent Check-in or Reinstall** Restart the Windows Agent Service. 
 
 ## Links
 - [N-central Architecture](../explanations/n-central-architecture.md)
