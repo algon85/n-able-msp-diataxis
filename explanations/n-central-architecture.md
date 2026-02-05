@@ -67,5 +67,5 @@ N-central offers flexibility in how the management platform is hosted, allowing 
 ---
 
 ## Links
-- [N-central Terminology]
-- [Onboarding a New Client]
+- [N-central Terminology](../../reference/n-central-terminology.md)
+- [Onboarding a New Client](../../guides/onboarding-a-new-client.md)
