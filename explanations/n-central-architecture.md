@@ -1,6 +1,6 @@
 # N-central Architecture
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** Explanation  
 **Product/Scope:** N-central RMM deployment and design
 
