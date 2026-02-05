@@ -42,12 +42,13 @@ Conditions that need to be met before you begin:
 > Commands run with agent-level privileges. Ensure the command is safe and appropriate for the target system.
 
 ### 4. Execute the Command
-1. 
-2. 
+1. Press the **ENTER** or **RETURN** key to run the command.
+3. Wait for execution to complete.
 
 ### 5. Review Results
-1. 
-2. 
+1. View command output and exit status in the results pane.
+2. If the command fails, review error messages and agent status.
+3. Document outcomes if the command was part of an incident or change request.
 
 ## Validation
 Confirm success by:
