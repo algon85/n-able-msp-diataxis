@@ -69,6 +69,7 @@ N-central is designed as a multi-tenant platform, allowing a single deployment t
 - **Customers** and **Sites** provide logical separation of client environments within the same platform.
 
 Scalability is achieved by:
+
 ---
 
 ## Links
