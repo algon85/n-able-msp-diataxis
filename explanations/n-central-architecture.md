@@ -41,8 +41,12 @@ N-central relies on a backend database to persist configuration, inventory, and 
 - **Integrity**: Data integrity is enforced through controlled server-side access, role-based permissions, and transactional updates. Backup, retention, and disaster recovery strategies depend on the chosen deployment model (cloud-hosted or on-premises).
 
 ### Communication Tiers
-1. **Agents**: 
-2. **Probes**: 
+1. **Agents**  
+   Lightweight services installed on managed devices. Agents collect system metrics, execute tasks locally, and report results to the N-central server over secure channels.
+
+2. **Probes**  
+   Specialized services deployed within customer networks to discover and monitor devices that cannot run an agent (such as printers, switches, and network appliances). Probes act as intermediaries, aggregating data and forwarding it to the N-central server.
+
 3. **Web Console**: 
 
 ---
