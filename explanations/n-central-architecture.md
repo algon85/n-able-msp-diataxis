@@ -35,8 +35,10 @@ Key responsibilities include:
 In cloud-hosted deployments, this server is operated and maintained by N-able. In on-premises deployments, it is installed and managed by the MSP.
 
 ### Data Storage & Integrity
-* **Database**: 
-* **Integrity**: 
+N-central relies on a backend database to persist configuration, inventory, and monitoring data.
+
+- **Database**: Stores device metadata, monitoring results, alert history, configuration settings, and automation state. The database is tightly coupled to the N-central server and is not accessed directly by agents or end-user systems.
+- **Integrity**: Data integrity is enforced through controlled server-side access, role-based permissions, and transactional updates. Backup, retention, and disaster recovery strategies depend on the chosen deployment model (cloud-hosted or on-premises).
 
 ### Communication Tiers
 1. **Agents**: 
