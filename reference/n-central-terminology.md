@@ -1,6 +1,6 @@
 # N-central Terminology
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** Reference  
 **Product/Scope:** N-central RMM
 
