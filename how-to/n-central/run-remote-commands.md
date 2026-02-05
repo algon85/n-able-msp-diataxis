@@ -17,11 +17,11 @@ Use this procedure when you need to:
 For recurring or automated tasks, use Automation Policies instead.
 
 ## Prerequisites
-Before you begin:
-- 
-- 
-- 
-- 
+Conditions that need to be met before you begin:
+- You have access to the N-central Web Console
+- The target device has an active N-central agent
+- Your user role has permission to run remote commands
+- The device is online and is checking in
 
 ## Steps
 
