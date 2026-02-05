@@ -26,4 +26,4 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 
 ## Links
 - [N-central Architecture](../explanations/n-central-architecture.md)
-- [N-central Terminology](../reference/n-central-terminology.md)
+- [N-central Terminology](../../reference/n-central-terminology.md)
