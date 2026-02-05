@@ -47,7 +47,8 @@ N-central relies on a backend database to persist configuration, inventory, and 
 2. **Probes**  
    Specialized services deployed within customer networks to discover and monitor devices that cannot run an agent (such as printers, switches, and network appliances). Probes act as intermediaries, aggregating data and forwarding it to the N-central server.
 
-3. **Web Console**: 
+3. **Web Console**  
+   A browser-based interface hosted by the N-central server. NOC professionals use the Web Console to configure monitoring, respond to alerts, manage customers and sites, and view reporting data.
 
 ---
 
