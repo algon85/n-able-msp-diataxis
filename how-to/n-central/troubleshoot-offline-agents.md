@@ -13,15 +13,16 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 
 ## Steps
 
-1. **Verify Local Service Status** Log in to the target endpoint
-2. 
-3. **Test Server Connectivity** 
+1. **Verify Local Service Status** Log in to the target endpoint and open the Services console (`services.msc`). Ensure the **Windows Agent Service** and **Windows Agent Maintenance Service** are both in a "Running" state.
 
-4. **Examine Agent Logs** 
+2. **Test Server Connectivity** Confirm the endpoint can reach the N-central server over the network. Open a command prompt and run:  
+   `Test-NetConnection <Your-N-central-URL> -Port 443`
 
-5. **Verify Appliance and Customer Association** 
+3. **Examine Agent Logs** 
 
-6. **Force Agent Check-in or Reinstall** 
+4. **Verify Appliance and Customer Association** 
+
+5. **Force Agent Check-in or Reinstall** 
 
 ## Links
 - [N-central Architecture]
