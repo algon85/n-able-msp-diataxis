@@ -69,6 +69,11 @@ N-central is designed as a multi-tenant platform, allowing a single deployment t
 - **Customers** and **Sites** provide logical separation of client environments within the same platform.
 
 Scalability is achieved by:
+- Distributing workload across agents and probes
+- Supporting large device counts through hierarchical organization
+- Allowing additional probes to be deployed as environments grow
+
+In cloud-hosted deployments, scalability is primarily handled by N-able. In on-premises deployments, MSPs must size and scale infrastructure appropriately to support growth.
 
 ---
 
