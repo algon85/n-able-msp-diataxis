@@ -26,6 +26,14 @@ N-central is composed of a centralized management platform and distributed compo
 ### The N-central Server
 The N-central server acts as the control plane for the platform. It coordinates communication with managed devices, evaluates monitoring checks, executes automation tasks, and stores configuration and historical data.
 
+Key responsibilities include:
+- Receiving status and performance data from agents and probes
+- Evaluating thresholds and generating alerts
+- Orchestrating scheduled tasks and automation policies
+- Serving the Web Console used by NOC professionals
+
+In cloud-hosted deployments, this server is operated and maintained by N-able. In on-premises deployments, it is installed and managed by the MSP.
+
 ### Data Storage & Integrity
 * **Database**: 
 * **Integrity**: 
