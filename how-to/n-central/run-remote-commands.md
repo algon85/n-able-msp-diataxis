@@ -10,7 +10,9 @@ Execute a command or script on one or more managed devices using N-central.
 ## When to Use This
 Use this procedure when you need to:
 - Run a one-time command for troubleshooting
-- 
+- Collect diagnostic information
+- Perform a quick remediation task
+- Validate system state without interactive remote access
 
 For recurring or automated tasks, use Automation Policies instead.
 
