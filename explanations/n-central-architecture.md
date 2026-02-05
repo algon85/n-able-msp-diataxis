@@ -3,7 +3,7 @@
 **Status:** Draft  
 **Diátaxis Type:** Explanation  
 **Product/Scope:** N-central RMM deployment and design
-
+ 
 ## Purpose
 Provide a conceptual overview of the **architecture of N-central RMM**, including how it is structured, hosted, and managed. This helps readers understand how components interact and how the platform scales for MSP environments.
 
