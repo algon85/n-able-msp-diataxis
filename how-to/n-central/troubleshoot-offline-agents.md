@@ -1,6 +1,6 @@
 # Troubleshoot Offline Agents (N-central)
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** How-To  
 **Product:** N-central RMM
 
