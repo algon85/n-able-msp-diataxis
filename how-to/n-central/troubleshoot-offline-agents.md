@@ -18,11 +18,12 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 2. **Test Server Connectivity** Confirm the endpoint can reach the N-central server over the network. Open a command prompt and run:  
    `Test-NetConnection <Your-N-central-URL> -Port 443`
 
-3. **Examine Agent Logs** 
+3. **Examine Agent Logs** Navigate to the installation directory (default: `C:\Program Files (x86)\N-able Technologies\Windows Agent\log\`) and open `AdvancedUser.log`. 
 
 4. **Verify Appliance and Customer Association** 
 
 5. **Force Agent Check-in or Reinstall** 
 
 ## Links
-- [N-central Architecture]
+- [N-central Architecture](../explanations/n-central-architecture.md)
+- [N-central Terminology]
