@@ -52,16 +52,20 @@ Conditions that need to be met before you begin:
 
 ## Validation
 Confirm success by:
-- 
-- 
+- Reviewing command output
+- Checking device status or logs
+- Verifying the expected system change occurred
 
 ## Common Issues
 
 - **Command does not run**  
+  Verify the agent is online and communicating with the N-central server.
 
 - **Permission denied**  
+  Ensure your user role allows remote command execution.
 
 - **Unexpected results**  
+  Test commands on a non-production device when possible.
 
 ## Related Tasks
 - Creating Automation Policies
