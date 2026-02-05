@@ -20,9 +20,9 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 
 3. **Examine Agent Logs** Navigate to the installation directory (default: `C:\Program Files (x86)\N-able Technologies\Windows Agent\log\`) and open `AdvancedUser.log`. Look for "Communication Error" or "403 Forbidden" entries that indicate authentication or certificate issues.
 
-4. **Verify Appliance and Customer Association** 
+4. **Verify Appliance and Customer Association** In the N-central Web Console, verify that the device is still associated with the correct **Customer** or **Site**. If a device was moved without an agent check-in, it may report as offline.
 
-5. **Force Agent Check-in or Reinstall** 
+5. **Force Agent Check-in or Reinstall** Restart the Windows Agent Service. If the device does not check back into the **NOC** dashboard within 10 minutes, download a new agent installer from the N-central UI and perform a "Repair" installation.
 
 ## Links
 - [N-central Architecture](../explanations/n-central-architecture.md)
