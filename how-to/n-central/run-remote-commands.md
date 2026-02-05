@@ -1,6 +1,6 @@
 # Run Remote Commands in N-central
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** How-to  
 **Product/Scope:** N-central RMM – remote command execution
 
