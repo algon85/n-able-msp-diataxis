@@ -9,23 +9,38 @@ Provide a conceptual overview of the **architecture of N-central RMM**, includin
 
 ## Scope
 Covers:
-- Core components of N-central (server, database, web console, agents)  
-- Deployment options: cloud vs on-premises  
-- Typical network topology considerations  
-- Scalability and multi-tenant support  
+- Core components of N-central (server, database, web console, agents).
+- Deployment options: cloud vs on-premises.
+- Typical network topology considerations.
+- Scalability and multi-tenant support.
 
-## Key Concepts
+## System Components
 
-- **Server Components:** N-central includes a central management server, which coordinates agent communication, stores monitoring data, and hosts the web console.  
 
-- **Agents:** Installed on client devices, agents report system health, deploy patches, and enforce policies.  
 
-- **Database:** Stores all monitoring, configuration, and alert data. Ensures data integrity and supports reporting.  
+### The N-central Server
+The central management server acts as the "brain" of the operation. It coordinates all agent communication, stores historical monitoring data, and hosts the **Web Console** used by **NOC Professionals**.
 
-- **Web Console:** Provides the NOC Professionals with an interface to monitor clients, manage policies, and respond to alerts.  
+### Data Storage & Integrity
+* **Database**: 
+* **Integrity**: 
 
-- **Hosting Options:** N-central can be deployed in a cloud-hosted environment or on-premises, giving MSPs flexibility depending on their scale and security requirements.  
+### Communication Tiers
+1. **Agents**: 
+2. **Probes**: 
+3. **Web Console**: 
+
+## Deployment Models
+N-central offers flexibility in how the management server is hosted:
+
+| Model | Description | Use Case |
+|------|-------------|----------|
+| **Cloud-Hosted** |
+| **On-Premises** | 
+
+## Multi-Tenancy and Scalability
+
 
 ## Links
-- [Onboarding a New Client](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/onboarding-a-new-client.md)
-- [N-central vs N-sight](https://github.com/algon85/n-able-msp-diataxis/blob/main/explanations/n-central-vs-n-sight.md)
+- [N-central Terminology]
+- [Onboarding a New Client]
