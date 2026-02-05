@@ -53,11 +53,11 @@ N-central relies on a backend database to persist configuration, inventory, and 
 ---
 
 ## Deployment Models
-N-central offers flexibility in how the management server is hosted:
+N-central offers flexibility in how the management platform is hosted, allowing MSPs to align deployment with operational and compliance requirements.
 
 | Model | Description | Use Case |
 |------|-------------|----------|
-| **Cloud-Hosted** |
+| **Cloud-Hosted** | The N-central server and database are hosted and maintained by N-able. MSPs access the platform via the web without managing underlying infrastructure. | MSPs seeking reduced operational overhead, faster onboarding, and simplified maintenance. |
 | **On-Premises** | 
 
 ---
