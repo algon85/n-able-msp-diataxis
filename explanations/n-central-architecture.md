@@ -65,8 +65,8 @@ N-central offers flexibility in how the management platform is hosted, allowing 
 ## Multi-Tenancy and Scalability
 N-central is designed as a multi-tenant platform, allowing a single deployment to manage multiple customers in isolation.
 
-- **Service Organizations** 
-- **Customers** and **Sites** 
+- **Service Organizations** represent the MSP and define global configuration and administrative boundaries.
+- **Customers** and **Sites** provide logical separation of client environments within the same platform.
 
 Scalability is achieved by:
 ---
