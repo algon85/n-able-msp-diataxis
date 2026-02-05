@@ -27,15 +27,17 @@ Conditions that need to be met before you begin:
 
 ### 1. Locate the Target Device
 1. Log in to the N-central Web Console.
-2. 
+2. Navigate to **Customers** and select the appropriate **Customer** and **Site**.
+3. Open the target **Device**.
 
 ### 2. Open the Remote Command Interface
-1. 
-2. 
+1. From the device dashboard, locate the **Tools** menu.
+2. Select the **Command Prompt** button.
+3. Click **Start Session**.
 
 ### 3. Configure the Command
-1. 
-2. 
+1. Enter the command or script to be executed.
+2. Review the command carefully before execution.
 
 > Commands run with agent-level privileges. Ensure the command is safe and appropriate for the target system.
 
