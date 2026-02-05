@@ -25,5 +25,5 @@ Provide step-by-step guidance to troubleshoot agents that go offline.
 5. **Force Agent Check-in or Reinstall** Restart the Windows Agent Service. If the device does not check back into the **NOC** dashboard within 10 minutes, download a new agent installer from the N-central UI and perform a "Repair" installation.
 
 ## Links
-- [N-central Architecture](../explanations/n-central-architecture.md)
+- [N-central Architecture](../../explanations/n-central-architecture.md)
 - [N-central Terminology](../../reference/n-central-terminology.md)
