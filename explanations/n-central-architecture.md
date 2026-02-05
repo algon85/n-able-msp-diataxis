@@ -4,8 +4,12 @@
 **Diátaxis Type:** Explanation  
 **Product/Scope:** N-central RMM deployment and design
 
+---
+
 ## Purpose
 Provide a conceptual overview of the **architecture of N-central RMM**, including how it is structured, hosted, and managed. This helps readers understand how components interact and how the platform scales for MSP environments.
+
+---
 
 ## Scope
 Covers:
@@ -13,6 +17,8 @@ Covers:
 - Deployment options: cloud vs on-premises.
 - Typical network topology considerations.
 - Scalability and multi-tenant support.
+
+---
 
 ## System Components
 N-central is composed of a centralized management platform and distributed components deployed throughout customer environments.
@@ -29,6 +35,8 @@ The N-central server acts as the control plane for the platform. It coordinates 
 2. **Probes**: 
 3. **Web Console**: 
 
+---
+
 ## Deployment Models
 N-central offers flexibility in how the management server is hosted:
 
@@ -37,8 +45,11 @@ N-central offers flexibility in how the management server is hosted:
 | **Cloud-Hosted** |
 | **On-Premises** | 
 
+---
+
 ## Multi-Tenancy and Scalability
 
+---
 
 ## Links
 - [N-central Terminology]
