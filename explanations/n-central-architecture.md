@@ -63,7 +63,12 @@ N-central offers flexibility in how the management platform is hosted, allowing 
 ---
 
 ## Multi-Tenancy and Scalability
+N-central is designed as a multi-tenant platform, allowing a single deployment to manage multiple customers in isolation.
 
+- **Service Organizations** 
+- **Customers** and **Sites** 
+
+Scalability is achieved by:
 ---
 
 ## Links
