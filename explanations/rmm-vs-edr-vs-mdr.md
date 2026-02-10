@@ -16,9 +16,9 @@ Covers:
 
 ## Key Concepts
 
-- **RMM (Remote Monitoring & Management):** Tools for monitoring endpoint health, deploying updates, running scripts, and alerting on failures. Typically agent-based and focused on IT operations.  
+- **RMM (Remote Monitoring & Management):** Agent-based tools for monitoring endpoint health, deploying updates, running scripts, and alerting on failures, typically focused on IT operations.  
 
-- **EDR (Endpoint Detection & Response):** Focuses on detecting, investigating, and responding to security threats on endpoints. Often includes threat analytics, malware detection, and forensic capabilities.  
+- **EDR (Endpoint Detection & Response):** Focus is on detecting, investigating, and responding to security threats on endpoints. Often includes threat analytics, malware detection, and forensic capabilities.  
 
 - **MDR (Managed Detection & Response):** A service that combines EDR technology with security expertise to proactively monitor, detect, and respond to threats on behalf of the MSP. Provides 24/7 security operations.
 
