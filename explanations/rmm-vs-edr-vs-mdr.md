@@ -1,6 +1,6 @@
 # RMM vs EDR vs MDR
 
-**Status:** Draft  
+**Status:** Final  
 **Diátaxis Type:** Explanation  
 **Product/Scope:** Overview of monitoring and security tools useful for MSP operations
 
