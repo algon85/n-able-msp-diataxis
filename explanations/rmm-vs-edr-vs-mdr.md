@@ -10,7 +10,7 @@ This explanation introduces the key distinctions between **RMM (Remote Monitorin
 ## Scope
 Covers:
 - Primary function of each tool  
-- Typical use cases for MSP environments  
+- Typical use cases 
 - Integration considerations  
 - How they complement one another  
 
