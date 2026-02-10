@@ -25,6 +25,8 @@ Covers:
 
 - **Recovery & DR:** Supports point-in-time restores, full system restores, and disaster recovery scenarios for business continuity.
 
+- **Data Ownership & Storage:** Backup data is encrypted and stored offsite, with MSPs retaining control over access and recovery operations.
+
 ## Links
 - [Cove Data Protection Tutorials](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/cove-data-protection/)
 - [Deploying Agents at Scale](https://github.com/algon85/n-able-msp-diataxis/blob/main/tutorials/n-central/deploying-agents-at-scale.md)
