@@ -2,10 +2,10 @@
 
 **Status:** Draft  
 **Diátaxis Type:** Explanation  
-**Product/Scope:** Overview of monitoring and security tools used by MSPs
+**Product/Scope:** Overview of monitoring and security tools useful for MSP operations
 
 ## Purpose
-This explanation introduces the key differences between **Remote Monitoring & Management (RMM)**, **Endpoint Detection & Response (EDR)**, and **Managed Detection & Response (MDR)**. The goal is to clarify their roles, their overlap, and when each is used in a managed services context.
+This explanation introduces the key distinctions between **RMM (Remote Monitoring & Management)**, **EDR (Endpoint Detection & Response)**, and **MDR (Managed Detection & Response)**. The goal is to clarify their purposes, how they overlap, and when each is used in a managed services context.
 
 ## Scope
 Covers:
