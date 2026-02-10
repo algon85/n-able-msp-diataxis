@@ -1,6 +1,6 @@
 # N-central vs N-sight
 
-**Status:** Draft  
+**Status:** Final
 **Diátaxis Type:** Explanation  
 **Product/Scope:** N-central RMM, N-sight RMM
 
