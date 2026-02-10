@@ -12,7 +12,8 @@ Covers:
 - Role of Cove in protecting endpoints and servers  
 - Integration with RMM tools like N-central and N-sight  
 - Data flow and policy considerations  
-- Use cases for MSPs managing multiple clients  
+- Use cases for MSPs managing multiple clients
+- Cove is not an RMM; it complements EDR/MDR rather than replacing them  
 
 ## Key Concepts
 
