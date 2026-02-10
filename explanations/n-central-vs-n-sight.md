@@ -5,7 +5,7 @@
 **Product/Scope:** N-central RMM, N-sight RMM
 
 ## Purpose
-Provide a conceptual comparison between **N-central RMM** and **N-sight RMM**, helping readers understand the fundamental differences in design, typical use cases, and operational tradeoffs.
+Provide a conceptual comparison between **N-central RMM** and **N-sight RMM**, so that readers understand the fundamental differences in design, typical use cases, and the pros and cons of using one over the other or vice versa.
 
 ## Scope
 Covers:
@@ -32,7 +32,7 @@ Both products are part of the N-able remote monitoring and management suite, but
 
 ### Target Audience
 - **N-sight** is designed for MSPs that prioritize ease of use and rapid deployment.  
-- **N-central** targets MSPs with larger environments and higher customization requirements.
+- **N-central** targets MSPs with larger environments and higher customizability requirements.
 
 ### Deployment and Management
 N-sight is cloud‑only and centrally managed, while N-central can be cloud‑hosted or on‑premises, offering deeper control over infrastructure and policies.
@@ -41,7 +41,7 @@ N-sight is cloud‑only and centrally managed, while N-central can be cloud‑ho
 N-central includes advanced automation policies, role‑based access, and extensive customization options. N-sight focuses on core RMM features with simpler configuration.
 
 ## When to Choose Which
-- Choose **N-sight** if speed of onboarding and ease of use are priorities.  
+- Choose **N-sight** if quick onboarding and ease of use are priorities.  
 - Choose **N-central** when you need robust automation, deep configuration, and scalability.
 
 ## Links
